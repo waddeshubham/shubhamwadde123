@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Investment_banking2</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.m2e.core.maven2Builder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/com/testdata/shubham.xlsx</name>
+			<type>1</type>
+			<location>D:/shubham.xlsx</location>
+		</link>
+		<link>
+			<name>src/test/resources/com/browser/chromedriver.exe</name>
+			<type>1</type>
+			<location>D:/selenium/chromedriver.exe</location>
+		</link>
+		<link>
+			<name>src/test/resources/com/browser/msedgedriver.exe</name>
+			<type>1</type>
+			<location>E:/edgedriver_win32/msedgedriver.exe</location>
+		</link>
+	</linkedResources>
+</projectDescription>
